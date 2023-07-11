@@ -1,9 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,virtualenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,virtualenv
 
-my_model.h5
 
-my_model
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
