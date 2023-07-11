@@ -75,10 +75,6 @@ def upload():
     else:
         return "live", 200
     
-
-if __name__ == '__main__':
-    app.run()
-    
     
 
 

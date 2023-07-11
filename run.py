@@ -1,3 +1,4 @@
-from spof_api import create_app
+from spof_api import app
 
-app = create_app()
+if __name__ == '__main__':
+    app.run()
